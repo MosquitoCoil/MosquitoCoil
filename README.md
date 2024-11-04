@@ -6,7 +6,7 @@
 <p align="center">
   Hi I'm Jaymar Roco
 </p>
-
+<div class="tenor-gif-embed" data-postid="26484614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/viciadoemcodar-gif-26484614">Viciadoemcodar GIF</a>from <a href="https://tenor.com/search/viciadoemcodar-gifs">Viciadoemcodar GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 ### skills:
 
