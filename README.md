@@ -7,7 +7,7 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<p align="center">
+<p align="center" font="consolas">
   I'm Jaymar Roco, <b>UI & UX Designer and Front End Web Developer</b> pursuing my Bachelor's Degree in <b>Information Technology</b>
 </p>
 
