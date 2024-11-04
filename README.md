@@ -1,6 +1,5 @@
 ---
-## about me:
-
+## About me:
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E3dzFoMWs4eGo2Mmx4c3MxYTIyaTVqbTM5M2EwcmFkamtvdms5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="200"/>
 </div>
@@ -14,8 +13,7 @@
 
 ---
 
-## skills:
-
+## Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,figma" />
