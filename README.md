@@ -10,6 +10,7 @@
   I'm Jaymar Roco, <b>UI & UX Designer and Front End Web Developer</b> pursuing my Bachelor's Degree in <b>Information Technology</b>
 </p>
 </div>
+
 ---
 
 ## Skills:
