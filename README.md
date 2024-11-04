@@ -13,9 +13,9 @@
 ---
 
 ### 🚀 **About Me**
-- Passionate about creating intuitive and visually appealing user experiences.
-- Enthusiastic about developing responsive and engaging front-end interfaces.
-- Continuously learning and honing my skills in design and web development.
+- I have a passion for creating user experiences that are both intuitive and visually striking.
+- I love building front-end interfaces that are responsive and keep users engaged.
+- I’m always eager to learn and keep improving my skills in design and web development.
   
 ---
 
