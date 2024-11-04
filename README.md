@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://unsplash.com/s/photos/nature-sunset" height="300" width="800"/>
-</div>
-
 ---
 ## About me:
 <div id="header" align="center">
