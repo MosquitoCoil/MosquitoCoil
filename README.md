@@ -1,12 +1,14 @@
 ---
 
 <div id="header" align="center">
-  <img src="https://tenor.com/view/viciadoemcodar-gif-26484614" width="100"/>
+  <img src="[https://tenor.com/view/viciadoemcodar-gif-26484614](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)" width="100"/>
 </div>
 <p align="center">
   Hi I'm Jaymar Roco
 </p>
+
 ---
+
 ### skills:
 
 <p align="center">
