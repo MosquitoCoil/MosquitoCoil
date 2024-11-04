@@ -10,7 +10,7 @@
 
 ---
 
-### skills:
+##skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
