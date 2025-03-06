@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVqY3YzM2swd3A1Z3kwMHRvcXI1MHkwNW95ZWowczhtaml3ZnlmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="200"/>
 
- 👋 **Hi there! I'm **Jaymar Roco**
+ 👋 **Hi there! I'm Jaymar Roco**
 </div>
 
 ---
