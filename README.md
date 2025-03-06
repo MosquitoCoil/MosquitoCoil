@@ -8,6 +8,7 @@
 ---
 
 # 👋 Hi there! I'm **Jaymar Roco**
+**IT Tech Support**
 🎨 **UI/UX Designer** & 💻 **Front-End Web Developer**  
 🎓 With a **Bachelor's Degree in Information Technology**
 ---
