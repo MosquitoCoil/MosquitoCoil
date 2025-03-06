@@ -17,6 +17,7 @@
 - I have a passion for creating user experiences that are both intuitive and visually striking.
 - I love building front-end interfaces that are responsive and keep users engaged.
 - I’m always eager to learn and keep improving my skills in design and web development.
+- I enjoy troubleshooting hardware and software issues, setting up devices, and ensuring smooth network connectivity
   
 ---
 
