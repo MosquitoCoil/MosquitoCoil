@@ -29,7 +29,7 @@
 </p>
 
 - **Design & Prototyping**: Figma, Adobe Photoshop
-- **Frontend Development**: Html, CSS, ReactJS, Tailwind CSS, JSX
+- **Frontend Development**: Html, CSS, ReactJS, Bootstrap, Tailwind CSS, JSX
 - **Mobile Development**: React Native
 - **Backend & Database**: PHP, MySQL
 - **Other Tools**: Visual Basic
