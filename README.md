@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 **About Me**
-- I'm someone who enjoys building both web and mobile apps using technologies like Flask, MySQL, ReactJS, and React Native. I like creating user-friendly interfaces and connecting them to working backend systems. I also have experience in IT support, solving hardware and software issues, and helping things run smoothly. I'm always learning new tools and improving my skills as I grow in the tech field.
+- I enjoy building complete applications from the user interface to the backend. I like creating smooth, user-friendly experiences whether it's on the web or mobile. I also have experience in IT support — solving technical issues and keeping systems running well. I'm always learning and improving as I grow in the tech field.
 ---
 
 ### 🛠 **Tech Stack**
