@@ -29,10 +29,10 @@
 </p>
 
 - **Design & Prototyping**: Figma, Adobe Photoshop
-- **Frontend Development**: Html, CSS, ReactJS, Bootstrap, Tailwind CSS, JSX
-- **Mobile Development**: React Native
-- **Backend & Database**: phpMyAdmin, MySQL, Flask
-- **Other Tools**: Visual Basic
+- **Frontend Development**: Html, CSS, Bootstrap, Tailwind CSS, ReactJS (JSX syntax)
+- **Mobile Development**: React Native, Expo
+- **Backend & Database**: MySQL, Flask (Python), phpMyAdmin (for DB GUI management)
+- **Other Tools**: Visual Studio Code, Git & GitHub, Visual Basic
 
 ---
 
