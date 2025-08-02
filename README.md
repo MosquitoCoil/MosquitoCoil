@@ -14,8 +14,7 @@
 ---
 
 ### 🚀 **About Me**
-- I'm a tech professional with a strong foundation in IT support, now specializing in full-stack development. I build web and mobile applications using tools like Flask, MySQL, ReactJS, and React Native. With a passion for UI/UX and a solid grasp of backend systems, I create responsive, user-friendly solutions that work seamlessly across platforms. I'm experienced in API integration, authentication, and system troubleshooting — and I'm always eager to learn and grow in the ever-evolving world of tech.
-  
+- I'm someone who enjoys building both web and mobile apps using technologies like Flask, MySQL, ReactJS, and React Native. I like creating user-friendly interfaces and connecting them to working backend systems. I also have experience in IT support, solving hardware and software issues, and helping things run smoothly. I'm always learning new tools and improving my skills as I grow in the tech field.
 ---
 
 ### 🛠 **Tech Stack**
