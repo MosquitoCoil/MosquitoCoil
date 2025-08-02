@@ -15,7 +15,7 @@
 ---
 ### 🚀 **About Me**
 - I enjoy building complete applications from the user interface to the backend. I like creating smooth, user-friendly experiences whether it's on the web or mobile. I also have experience in IT support — solving technical issues and keeping systems running well. I'm always learning and improving as I grow in the tech field.
-
+---
 
 ### 🛠 **Tech Stack**
 <p align="left">
