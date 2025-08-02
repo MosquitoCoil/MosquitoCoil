@@ -24,12 +24,12 @@
 ### 🛠 **Tech Stack**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,html,css,js,react,bootstrap,tailwindcss,php,mysql,python,flask" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,html,css,bootstrap,tailwindcss,js,react,mysql,py,php,vscode,github,visualstudio" />
   </a>
 </p>
 
 - **Design & Prototyping**: Figma, Adobe Photoshop
-- **Frontend Development**: Html, CSS, Bootstrap, Tailwind CSS, ReactJS (JSX syntax)
+- **Frontend Development**: HTML, CSS, Bootstrap, Tailwind CSS, ReactJS (JSX syntax)
 - **Mobile Development**: React Native, Expo
 - **Backend & Database**: MySQL, Flask (Python), phpMyAdmin (for DB GUI management)
 - **Other Tools**: Visual Studio Code, Git & GitHub, Visual Basic
