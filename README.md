@@ -24,11 +24,16 @@
   </a>
 </p>
 
-- **Design & Prototyping**: Figma, Adobe Photoshop
-- **Frontend Development**: HTML, CSS, Bootstrap, Tailwind CSS, ReactJS (JSX syntax)
-- **Mobile Development**: React Native, Expo
-- **Backend & Database**: MySQL, Flask (Python), phpMyAdmin (for DB GUI management)
-- **Other Tools**: Visual Studio Code, Git & GitHub, Visual Basic
+**Design & Prototyping**:
+- Figma, Adobe Photoshop
+**Frontend Development**:
+- HTML, CSS, Bootstrap, Tailwind CSS, ReactJS (JSX syntax)
+**Mobile Development**:
+- React Native, Expo
+**Backend & Database**:
+- MySQL, Flask (Python), phpMyAdmin (for DB GUI management)
+**Other Tools**:
+- Visual Studio Code, Git & GitHub, Visual Basic
 
 ---
 
