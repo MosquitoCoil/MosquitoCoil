@@ -1,20 +1,28 @@
-
 ---
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVqY3YzM2swd3A1Z3kwMHRvcXI1MHkwNW95ZWowczhtaml3ZnlmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="200"/>
-
- 👋 **Hi there! I'm Jaymar Roco**
+  <h1>👋 Hi there! I'm <span style="color:#4CAF50;">Jaymar Roco</span></h1>
 </div>
 
 ---
-🔧**IT Tech Support**,
-🎨 **UI/UX Designer**, 💻 **Web Developer**,  & 📱 **Mobile App Developer**
+
+### 💼 Roles
+- 🔧 **IT Tech Support**
+- 🎨 **UI/UX Designer**
+- 💻 **Web Developer**
+- 📱 **Mobile App Developer**
+
 🎓 **Bachelor’s Degree in Information Technology**
+
 ---
----
-### 🚀 **About Me**
-- I enjoy building complete applications from the user interface to the backend. I like creating smooth, user-friendly experiences whether it's on the web or mobile. I also have experience in IT support — solving technical issues and keeping systems running well. I'm always learning and improving as I grow in the tech field.
+
+### 🚀 About Me
+I enjoy building complete applications — from crafting the user interface to coding the backend.  
+Whether it's on the **web** or **mobile**, I focus on delivering smooth, user-friendly experiences.  
+I also have a solid background in **IT support**, solving technical issues and keeping systems running efficiently.  
+Always learning. Always improving. Always building.
+
 ---
 
 <!-- ### 🛠 **Tech Stack**
