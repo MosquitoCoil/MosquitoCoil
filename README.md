@@ -9,7 +9,7 @@
 
 ---
 🔧**IT Tech Support**,
-🎨 **UI/UX Designer**, 💻 **Front-End Web Developer**,  & 📱 **Mobile App Developer**
+🎨 **UI/UX Designer**, 💻 **Web Developer**,  & 📱 **Mobile App Developer**
 🎓 **Bachelor’s Degree in Information Technology**
 ---
 ---
