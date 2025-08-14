@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=figma,ps,html,css,bootstrap,tailwindcss,js,react,mysql,py,php,vscode,github,visualstudio" />
   </a>
 </p>
-
+<pre>
 **Design & Prototyping**:
 - Figma, Adobe Photoshop
 **Frontend Development**:
@@ -34,6 +34,8 @@
 - MySQL, Flask (Python), phpMyAdmin (for DB GUI management)
 **Other Tools**:
 - Visual Studio Code, Git & GitHub, Visual Basic
+</pre>
+
 
 ---
 
