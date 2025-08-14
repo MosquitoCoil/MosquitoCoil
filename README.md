@@ -17,13 +17,13 @@
 - I enjoy building complete applications from the user interface to the backend. I like creating smooth, user-friendly experiences whether it's on the web or mobile. I also have experience in IT support — solving technical issues and keeping systems running well. I'm always learning and improving as I grow in the tech field.
 ---
 
-### 🛠 **Tech Stack**
+<!-- ### 🛠 **Tech Stack**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,html,css,bootstrap,tailwindcss,js,react,mysql,py,php,vscode,github,visualstudio" />
   </a>
 </p>
-
+-->
 ## 🛠 Skills
 
 **🎨 Design & Prototyping**  
@@ -48,7 +48,6 @@
 
 **⚙ Other Tools & Technologies**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat&logo=visual-basic&logoColor=white)
 
