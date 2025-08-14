@@ -23,15 +23,21 @@
     <img src="https://skillicons.dev/icons?i=figma,ps,html,css,bootstrap,tailwindcss,js,react,mysql,py,php,vscode,github,visualstudio" />
   </a>
 </p>
+
 ## 🛠 Skills
+
 **🎨 Design & Prototyping**  
 Figma · Adobe Photoshop  
+
 **💻 Frontend Development**  
 HTML · CSS · Bootstrap · Tailwind CSS · ReactJS (JSX)  
+
 **📱 Mobile Development**  
 React Native · Expo  
+
 **🗄 Backend & Database**  
 Flask (Python) · MySQL · phpMyAdmin  
+
 **⚙ Other Tools & Technologies**  
 Visual Studio Code · Git & GitHub · Visual Basic
 ---
