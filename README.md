@@ -40,6 +40,7 @@ Flask (Python) · MySQL · phpMyAdmin
 
 **⚙ Other Tools & Technologies**  
 Visual Studio Code · Git & GitHub · Visual Basic
+
 ---
 
 
